@@ -49,6 +49,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/txt_phone_name"
         android:layout_margin="10dp"
+        android:justificationMode="inter_word"
         android:text="@string/phone_description"/>
     <ImageView
         android:id="@+id/ic_memory"
