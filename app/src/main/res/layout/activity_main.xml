@@ -83,6 +83,7 @@
         android:layout_toEndOf="@+id/ic_camera"
         android:text="@string/camera" />
 
+<!--    Bookmark Button-->
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
