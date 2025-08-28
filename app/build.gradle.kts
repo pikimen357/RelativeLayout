@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.relativelayout"
+    namespace = "com.example.rlayout"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.relativelayout"
+        applicationId = "com.example.rlayout"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

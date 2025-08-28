@@ -83,11 +83,12 @@
         android:layout_toEndOf="@+id/ic_camera"
         android:text="@string/camera" />
 
-<!--    Bookmark Button-->
+    <!--Bookmark Button-->
     <Button
-        android:layout_width="match_parent"
+        android:layout_width="355dp"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
+        android:layout_marginBottom="22dp"
         android:drawableLeft="@drawable/outline_bookmark_24"
         android:text="@string/bookmark"
         tools:ignore="RtlHardcoded" />

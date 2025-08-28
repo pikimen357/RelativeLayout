@@ -1,4 +1,4 @@
-package com.example.relativelayout
+package com.example.rlayout
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
